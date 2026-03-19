@@ -1,0 +1,49 @@
+═══════════════════════════════════════════════════
+  NELSON SUAREZ AUTO TRADE — GUÍA DE IMÁGENES
+═══════════════════════════════════════════════════
+
+Pon tus imágenes en las carpetas indicadas con los
+nombres exactos que aparecen abajo. El sitio las
+cargará automáticamente.
+
+FORMATOS ACEPTADOS: .jpg  .jpeg  .png  .webp
+TAMAÑO RECOMENDADO: máx. 2 MB por imagen
+RESOLUCIÓN IDEAL:   1200×750 px (autos), 1920×1080 px (hero)
+
+───────────────────────────────────────────────────
+📁 /cars/ — FOTOS DE AUTOS (14 imágenes)
+───────────────────────────────────────────────────
+car-001-1.jpg  →  Toyota Camry SE 2020         (exterior)
+car-001-2.jpg  →  Toyota Camry SE 2020         (interior)
+car-001-3.jpg  →  Toyota Camry SE 2020         (motor)
+
+car-002-1.jpg  →  Honda CR-V EX-L 2019         (exterior)
+car-002-2.jpg  →  Honda CR-V EX-L 2019         (interior)
+
+car-003-1.jpg  →  Ford F-150 XLT 2021          (exterior)
+car-003-2.jpg  →  Ford F-150 XLT 2021          (interior)
+
+car-004-1.jpg  →  Chevrolet Equinox LT AWD 2018
+car-005-1.jpg  →  Nissan Altima SV 2020
+car-006-1.jpg  →  Jeep Cherokee Latitude Plus 4x4 2019
+car-007-1.jpg  →  Toyota RAV4 XLE 2017
+car-008-1.jpg  →  Hyundai Sonata SEL 2021
+car-009-1.jpg  →  Honda Civic EX 2018
+car-010-1.jpg  →  Kia Sportage EX AWD 2022
+
+───────────────────────────────────────────────────
+📁 /site/ — FOTOS DEL NEGOCIO (2 imágenes)
+───────────────────────────────────────────────────
+hero.jpg        →  Foto principal del hero (portada del sitio)
+                   Sugerencia: foto de un auto elegante o el lote
+dealership.jpg  →  Foto del dealership / fachada del negocio
+
+───────────────────────────────────────────────────
+📁 /team/ — FOTOS DEL EQUIPO (1 imagen)
+───────────────────────────────────────────────────
+nelson.jpg      →  Foto de Nelson Suarez
+                   (página "Sobre Nosotros")
+
+═══════════════════════════════════════════════════
+TOTAL: 17 imágenes
+═══════════════════════════════════════════════════

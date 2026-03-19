@@ -27,8 +27,6 @@ export interface Car {
   daysOnLot: number;
 }
 
-const BASE = "https://placehold.co";
-
 export const CARS: Car[] = [
   {
     id: "car-001",
@@ -57,11 +55,11 @@ export const CARS: Car[] = [
       "Sistema de sonido JBL",
       "Llantas de aleación 18\"",
     ],
-    image: `${BASE}/800x500/0d2244/22c55e?text=Toyota+Camry+SE+2020`,
+    image: "/images/cars/car-001-1.jpg",
     images: [
-      `${BASE}/800x500/0d2244/22c55e?text=Toyota+Camry+SE+2020`,
-      `${BASE}/800x500/1a3a5c/ffffff?text=Interior+Camry`,
-      `${BASE}/800x500/0f2a40/4ade80?text=Motor+Camry`,
+      "/images/cars/car-001-1.jpg",
+      "/images/cars/car-001-2.jpg",
+      "/images/cars/car-001-3.jpg",
     ],
     featured: true,
     daysOnLot: 12,
@@ -93,10 +91,10 @@ export const CARS: Car[] = [
       "Control de crucero adaptivo",
       "Sensor de punto ciego",
     ],
-    image: `${BASE}/800x500/1a3a5c/22c55e?text=Honda+CR-V+EX-L+2019`,
+    image: "/images/cars/car-002-1.jpg",
     images: [
-      `${BASE}/800x500/1a3a5c/22c55e?text=Honda+CR-V+EX-L+2019`,
-      `${BASE}/800x500/0d2244/ffffff?text=Interior+CR-V`,
+      "/images/cars/car-002-1.jpg",
+      "/images/cars/car-002-2.jpg",
     ],
     featured: true,
     daysOnLot: 8,
@@ -128,10 +126,10 @@ export const CARS: Car[] = [
       "Caja de carga con cubierta",
       "Enganches de remolque clase V",
     ],
-    image: `${BASE}/800x500/2a3a2a/22c55e?text=Ford+F-150+XLT+2021`,
+    image: "/images/cars/car-003-1.jpg",
     images: [
-      `${BASE}/800x500/2a3a2a/22c55e?text=Ford+F-150+XLT+2021`,
-      `${BASE}/800x500/1a2a1a/ffffff?text=Interior+F-150`,
+      "/images/cars/car-003-1.jpg",
+      "/images/cars/car-003-2.jpg",
     ],
     featured: true,
     daysOnLot: 5,
@@ -162,9 +160,9 @@ export const CARS: Car[] = [
       "Alerta de carril",
       "Asientos calefaccionados",
     ],
-    image: `${BASE}/800x500/3a1a1a/22c55e?text=Chevy+Equinox+LT+2018`,
+    image: "/images/cars/car-004-1.jpg",
     images: [
-      `${BASE}/800x500/3a1a1a/22c55e?text=Chevy+Equinox+LT+2018`,
+      "/images/cars/car-004-1.jpg",
     ],
     featured: true,
     daysOnLot: 21,
@@ -196,9 +194,9 @@ export const CARS: Car[] = [
       "Control de crucero adaptivo",
       "Sensor de lluvia",
     ],
-    image: `${BASE}/800x500/0a0a1a/22c55e?text=Nissan+Altima+SV+2020`,
+    image: "/images/cars/car-005-1.jpg",
     images: [
-      `${BASE}/800x500/0a0a1a/22c55e?text=Nissan+Altima+SV+2020`,
+      "/images/cars/car-005-1.jpg",
     ],
     featured: true,
     daysOnLot: 14,
@@ -230,9 +228,9 @@ export const CARS: Car[] = [
       "Cámara trasera con guías",
       "Remote Start",
     ],
-    image: `${BASE}/800x500/1a2a0a/22c55e?text=Jeep+Cherokee+4x4+2019`,
+    image: "/images/cars/car-006-1.jpg",
     images: [
-      `${BASE}/800x500/1a2a0a/22c55e?text=Jeep+Cherokee+4x4+2019`,
+      "/images/cars/car-006-1.jpg",
     ],
     featured: true,
     daysOnLot: 17,
@@ -264,9 +262,9 @@ export const CARS: Car[] = [
       "Asientos calefaccionados",
       "Portón trasero eléctrico",
     ],
-    image: `${BASE}/800x500/2a2a2a/22c55e?text=Toyota+RAV4+XLE+2017`,
+    image: "/images/cars/car-007-1.jpg",
     images: [
-      `${BASE}/800x500/2a2a2a/22c55e?text=Toyota+RAV4+XLE+2017`,
+      "/images/cars/car-007-1.jpg",
     ],
     featured: false,
     daysOnLot: 28,
@@ -298,9 +296,9 @@ export const CARS: Car[] = [
       "Head-Up Display",
       "Remote Smart Parking",
     ],
-    image: `${BASE}/800x500/0a1a3a/22c55e?text=Hyundai+Sonata+SEL+2021`,
+    image: "/images/cars/car-008-1.jpg",
     images: [
-      `${BASE}/800x500/0a1a3a/22c55e?text=Hyundai+Sonata+SEL+2021`,
+      "/images/cars/car-008-1.jpg",
     ],
     featured: false,
     daysOnLot: 6,
@@ -332,9 +330,9 @@ export const CARS: Car[] = [
       "Asientos calefaccionados",
       "Cámara trasera",
     ],
-    image: `${BASE}/800x500/1a1a0a/22c55e?text=Honda+Civic+EX+2018`,
+    image: "/images/cars/car-009-1.jpg",
     images: [
-      `${BASE}/800x500/1a1a0a/22c55e?text=Honda+Civic+EX+2018`,
+      "/images/cars/car-009-1.jpg",
     ],
     featured: false,
     daysOnLot: 35,
@@ -366,9 +364,9 @@ export const CARS: Car[] = [
       "Asientos ventilados",
       "Drive Mode Select",
     ],
-    image: `${BASE}/800x500/1a1a1a/22c55e?text=Kia+Sportage+EX+2022`,
+    image: "/images/cars/car-010-1.jpg",
     images: [
-      `${BASE}/800x500/1a1a1a/22c55e?text=Kia+Sportage+EX+2022`,
+      "/images/cars/car-010-1.jpg",
     ],
     featured: false,
     daysOnLot: 3,
