@@ -375,7 +375,7 @@ export default function VenderAutoPage() {
                   <div className="flex items-start gap-2 bg-blue-50 rounded-xl p-3 mb-4 text-xs text-blue-700">
                     <AlertCircle className="h-4 w-4 flex-shrink-0 mt-0.5" />
                     <span>
-                      Al enviar, autorizas a Nelson Suarez Auto Trade a contactarte para discutir la oferta final. La oferta mostrada es un estimado preliminar sujeto a inspección física del vehículo.
+                      Al enviar, autorizas a Peak Auto Gallery a contactarte para discutir la oferta final. La oferta mostrada es un estimado preliminar sujeto a inspección física del vehículo.
                     </span>
                   </div>
 

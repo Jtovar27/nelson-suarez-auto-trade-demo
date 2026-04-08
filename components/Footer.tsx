@@ -14,7 +14,7 @@ export default function Footer() {
                 <Car className="h-5 w-5 text-white" />
               </div>
               <div>
-                <div className="text-white font-bold text-sm">Nelson Suarez</div>
+                <div className="text-white font-bold text-sm">Peak Auto Gallery</div>
                 <div className="text-brand-green text-xs font-semibold">AUTO TRADE</div>
               </div>
             </div>
@@ -118,7 +118,7 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-500">
           <div>
-            © {new Date().getFullYear()} Nelson Suarez Auto Trade. Todos los derechos reservados.
+            © {new Date().getFullYear()} Peak Auto Gallery. Todos los derechos reservados.
           </div>
           <div className="flex gap-4">
             <Link href="#" className="hover:text-brand-green">Política de Privacidad</Link>

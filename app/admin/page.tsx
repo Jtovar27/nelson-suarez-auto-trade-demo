@@ -66,7 +66,7 @@ function LoginScreen({ onLogin }: { onLogin: () => void }) {
             <Lock className="h-8 w-8 text-brand-green" />
           </div>
           <h1 className="text-2xl font-extrabold text-navy-900">Portal Admin</h1>
-          <p className="text-gray-500 text-sm mt-1">Nelson Suarez Auto Trade</p>
+          <p className="text-gray-500 text-sm mt-1">Peak Auto Gallery</p>
         </div>
 
         <form onSubmit={handle} className="space-y-4">
@@ -455,7 +455,7 @@ export default function AdminPage() {
             <LayoutDashboard className="h-5 w-5 text-brand-green" />
             <div>
               <div className="font-bold">Panel de Administración</div>
-              <div className="text-xs text-gray-400">Nelson Suarez Auto Trade</div>
+              <div className="text-xs text-gray-400">Peak Auto Gallery</div>
             </div>
           </div>
           <Button

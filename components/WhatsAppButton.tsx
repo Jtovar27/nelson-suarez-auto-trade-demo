@@ -21,7 +21,7 @@ export default function WhatsAppButton() {
                 <MessageCircle className="h-4 w-4 text-white" />
               </div>
               <div>
-                <div className="font-bold text-gray-900 text-sm">Nelson Suarez</div>
+                <div className="font-bold text-gray-900 text-sm">Peak Auto Gallery</div>
                 <div className="text-xs text-green-600">● En línea</div>
               </div>
             </div>

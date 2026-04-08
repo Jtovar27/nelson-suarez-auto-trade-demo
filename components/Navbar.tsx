@@ -50,7 +50,7 @@ export default function Navbar() {
             </div>
             <div>
               <div className="text-white font-bold text-sm leading-tight">
-                Nelson Suarez
+                Peak Auto Gallery
               </div>
               <div className="text-brand-green text-xs font-semibold tracking-wide">
                 AUTO TRADE

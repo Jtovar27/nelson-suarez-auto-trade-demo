@@ -123,7 +123,7 @@ export default function ContactoPage() {
               {/* Map */}
               <div className="rounded-xl overflow-hidden h-48">
                 <iframe
-                  title="Mapa Nelson Suarez Auto Trade"
+                  title="Mapa Peak Auto Gallery"
                   src="https://maps.google.com/maps?q=Independence+Blvd+Charlotte+NC&t=&z=14&ie=UTF8&iwloc=&output=embed"
                   className="w-full h-full border-0"
                   loading="lazy"

@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Nelson Suarez Auto Trade",
-    default: "Nelson Suarez Auto Trade — Autos Usados en Carolina del Norte",
+    template: "%s | Peak Auto Gallery",
+    default: "Peak Auto Gallery — Autos Usados en Carolina del Norte",
   },
   description:
     "Concesionario de autos usados licenciado NCDMV en Charlotte, NC. Servicio en español. Precios transparentes, financiamiento disponible. Honda, Toyota, Ford, Chevrolet y más.",
@@ -19,10 +19,10 @@ export const metadata: Metadata = {
     "carros usados Charlotte NC",
     "concesionario hispano NC",
     "used cars Charlotte NC",
-    "Nelson Suarez Auto Trade",
+    "Peak Auto Gallery",
   ],
   openGraph: {
-    title: "Nelson Suarez Auto Trade — Autos Usados NC",
+    title: "Peak Auto Gallery — Autos Usados NC",
     description: "Concesionario licenciado NCDMV. Servicio en español. Charlotte, NC.",
     type: "website",
   },

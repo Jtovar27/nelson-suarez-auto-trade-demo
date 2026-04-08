@@ -279,7 +279,7 @@ export default function CarModal({ car, onClose }: CarModalProps) {
                     </p>
                   </div>
                   <div className="text-gray-500 border-t pt-2">
-                    <div className="font-semibold text-gray-700">Nelson Suarez Auto Trade</div>
+                    <div className="font-semibold text-gray-700">Peak Auto Gallery</div>
                     <div>1234 Independence Blvd, Charlotte, NC 28209</div>
                     <div>Tel: (919) 555-0100</div>
                   </div>

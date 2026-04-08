@@ -21,7 +21,7 @@ import {
 export const metadata: Metadata = {
   title: "Sobre Nosotros",
   description:
-    "Conoce la historia y valores de Nelson Suarez Auto Trade, concesionario hispano licenciado NCDMV en Charlotte, NC.",
+    "Conoce la historia y valores de Peak Auto Gallery, concesionario hispano licenciado NCDMV en Charlotte, NC.",
 };
 
 const VALUES = [
@@ -56,7 +56,7 @@ const VALUES = [
 ];
 
 const TIMELINE = [
-  { year: "2015", event: "Nelson Suarez abre el negocio con 5 vehículos en Charlotte, NC." },
+  { year: "2015", event: "Peak Auto Gallery abre el negocio con 5 vehículos en Charlotte, NC." },
   { year: "2017", event: "Obtiene la licencia oficial de concesionario del NCDMV." },
   { year: "2019", event: "Expande el inventario a 20+ vehículos. Primer empleado a tiempo completo." },
   { year: "2021", event: "Reconocido por la comunidad hispana de Charlotte como negocio de confianza." },
@@ -77,7 +77,7 @@ export default function SobreNosotrosPage() {
             </span>
           </div>
           <h1 className="text-4xl font-extrabold mb-4">
-            Sobre Nelson Suarez Auto Trade
+            Sobre Peak Auto Gallery
           </h1>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto leading-relaxed">
             Somos un concesionario de autos usados hispano licenciado por el NCDMV, ubicado en Charlotte, NC. Nuestra misión es hacer accesible la compra de un auto confiable para toda la comunidad.
@@ -94,7 +94,7 @@ export default function SobreNosotrosPage() {
             </h2>
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Nelson Suarez llegó a Carolina del Norte con un sueño: construir un negocio honesto que sirviera a la comunidad hispana de la misma manera que a él le hubiera gustado ser tratado cuando buscó su primer auto en los Estados Unidos.
+                Peak Auto Gallery llegó a Carolina del Norte con un sueño: construir un negocio honesto que sirviera a la comunidad hispana de la misma manera que a él le hubiera gustado ser tratado cuando buscó su primer auto en los Estados Unidos.
               </p>
               <p>
                 Lo que comenzó con 5 vehículos en el garaje de su casa en 2015, creció hasta convertirse en un concesionario licenciado por el NCDMV, con más de 500 clientes satisfechos en el área Tri-Cities de North Carolina.
@@ -183,7 +183,7 @@ export default function SobreNosotrosPage() {
           <div className="w-24 h-24 bg-brand-green rounded-full flex items-center justify-center mx-auto mb-5 text-4xl font-extrabold">
             NS
           </div>
-          <h2 className="text-2xl font-extrabold mb-2">Nelson Suarez</h2>
+          <h2 className="text-2xl font-extrabold mb-2">Peak Auto Gallery</h2>
           <div className="text-brand-green font-semibold mb-4">
             Propietario &amp; Dealer Principal — Charlotte, NC
           </div>

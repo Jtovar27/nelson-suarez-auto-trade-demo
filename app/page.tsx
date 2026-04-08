@@ -199,7 +199,7 @@ export default function HomePage() {
               ¿Por qué elegirnos?
             </h2>
             <p className="text-gray-500 max-w-xl mx-auto">
-              En Nelson Suarez Auto Trade somos más que un concesionario — somos tu aliado en la compra de tu próximo vehículo.
+              En Peak Auto Gallery somos más que un concesionario — somos tu aliado en la compra de tu próximo vehículo.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -345,7 +345,7 @@ export default function HomePage() {
             {/* Map placeholder */}
             <div className="rounded-2xl overflow-hidden shadow-lg h-72 bg-gray-200 relative">
               <iframe
-                title="Ubicación Nelson Suarez Auto Trade"
+                title="Ubicación Peak Auto Gallery"
                 src="https://maps.google.com/maps?q=Charlotte+NC&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 className="w-full h-full border-0"
                 loading="lazy"

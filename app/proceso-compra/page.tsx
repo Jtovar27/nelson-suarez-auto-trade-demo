@@ -297,7 +297,7 @@ export default function ProcesodeCompraPage() {
             ¿Listo para comenzar?
           </h2>
           <p className="text-green-100 mb-6">
-            En Nelson Suarez Auto Trade te guiamos en cada paso del proceso.
+            En Peak Auto Gallery te guiamos en cada paso del proceso.
             ¡Contáctanos hoy!
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
